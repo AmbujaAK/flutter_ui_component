@@ -1,7 +1,6 @@
 name: flutter_ui_component
 description: A Collection of UI components frequently used.
 version: 0.0.1
-author: Ambuj Kumar <itsambuja@gmail.com>
 homepage: https://github.com/AmbujaAK/flutter_ui_component
 
 environment:
